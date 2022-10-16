@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/ivacksc" target="blank"><img src="https://img.shields.io/twitter/follow/ivacksc?logo=twitter&style=for-the-badge" alt="ivacksc" /></a> </p>
 
-- 🔭 I’m currently working on **Vueling**
+- 🔭 I’m currently working on **Doonamis**
 
 - 🌱 I’m currently learning **Improve my knowledge in C#**
 
-- 👯 I’m looking to collaborate on **Hackatons**
+- 👯 I’m looking to collaborate.
 
 - 🤝 I’m looking for help with **New thinks of coding**
 
